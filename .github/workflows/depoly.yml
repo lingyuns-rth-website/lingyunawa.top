@@ -15,5 +15,5 @@ jobs:
           RTH_API_KEY: ${{ secrets.RTH_API_KEY }}
         with:
           site: "lingyunawa.top"
-          build: "npm run build"
+          build: "build"
           outdir: "dist"
