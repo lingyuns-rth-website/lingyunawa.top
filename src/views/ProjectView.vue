@@ -30,8 +30,8 @@
                     <!-- github-url="https://github.com/Yuns-Lab/YunMCCM" -->
                     <template #project-description>
                         <p style="font-size: 1.2em; margin: 4px 0;">Yun Launchers：Minecraft Console Client (MCC)
-                            Launcher</p>
-                        <p style="font-size: 1.2em; margin: 4px 0;">This is a MCC Launcher made by the Yuns-Lab Dev
+                            Manager</p>
+                        <p style="font-size: 1.2em; margin: 4px 0;">This is a MCC Manager made by the Yuns-Lab Dev
                             Team.</p>
                         <p style="font-size: 1.2em; margin: 4px 0;">Advantages: Cross-platform; visualization of
                             functions.</p>
