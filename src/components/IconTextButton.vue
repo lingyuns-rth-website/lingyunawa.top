@@ -28,6 +28,7 @@
         cursor: pointer;
         padding: 4px 12px;
         transition: background-color .2s ease-in-out;
+        font-family: "Bahnschrift", serif;
         
         &:hover {
             background-color: rgba(var(--neutral-10-rgb), 0.75);
