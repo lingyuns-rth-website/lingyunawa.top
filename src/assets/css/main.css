@@ -1,0 +1,20 @@
+/* Multi Theme CSS */
+@import "./light.css";
+@import "./dark.css";
+
+/* Public Variables */
+body {
+    --global-time: 1.8;
+    --main-bg: rgba(var(--neutral-10-rgb), 0.6)
+}
+
+body[class*="dark"] {
+    --main-bg: rgba(var(--primary-10-rgb), 0.5)
+}
+
+/* Public Styles */
+body {
+    color: var(--neutral-90);
+    font-family: "Bahnschrift", serif;
+    user-select: none;
+}
