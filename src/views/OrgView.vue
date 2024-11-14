@@ -81,7 +81,7 @@
                          image-url="/images/organizations/RIT-OpenSource.webp">
                     <template #org-description>
                         <p style="font-size: 1.2rem; margin: 2px 0;">Occasionally open source community of Minecraft CIR Server</p>
-                        <p style="font-size: 1.2rem; margin: 2px 0;">At present, the server has stopped operating, only this is the memorial</p>
+                        <p style="font-size: 1.2rem; margin: 2px 0;">At present, the server has stopped operating, keep it only for memorial</p>
                     </template>
                 </OrgCard>
             </div>
