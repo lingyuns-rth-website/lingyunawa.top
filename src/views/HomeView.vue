@@ -10,6 +10,7 @@
     import MdiCodeBracesBox from "@/icons/MdiCodeBracesBox.vue";
     import OcticonProject16 from "@/icons/OcticonProject16.vue";
     import OcticonOrganization16 from "@/icons/OcticonOrganization16.vue";
+    import MdiClipboardAccount from "@/icons/MdiClipboardAccount.vue";
     
     const greeting = ref<HTMLTitleElement>();
     
@@ -56,8 +57,14 @@
                 Coding.
             </p>
             <div class="button-container" vly-fade-u4="">
-                <IconButton @click="$router.push('/projects')" vly-fade-u5="" :icon="OcticonProject16">My Projects</IconButton>
-                <IconButton @click="$router.push('/organizations')" vly-fade-u5="" :icon="OcticonOrganization16">My Organizations</IconButton>
+                <IconButton @click="$router.push('/description')" vly-fade-u5="" :icon="MdiClipboardAccount">
+                    Description
+                </IconButton>
+                <IconButton @click="$router.push('/projects')" vly-fade-u5="" :icon="OcticonProject16">My Projects
+                </IconButton>
+                <IconButton @click="$router.push('/organizations')" vly-fade-u5="" :icon="OcticonOrganization16">My
+                    Organizations
+                </IconButton>
             </div>
         </div>
     </main>

@@ -100,7 +100,7 @@
 
 <style scoped lang="scss">
     main {
-        padding: 64px 48px 48px;
+        padding: 96px 48px 48px;
         
         h1 {
             margin-top: 0;

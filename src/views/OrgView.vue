@@ -36,7 +36,8 @@
                 <OrgCard org-name="Homeplaza-Of-PCL2" display-name="PCL HomePlaza"
                          image-url="/images/organizations/Homeplaza-Of-PCL2.webp">
                     <template #org-description>
-                        <p style="font-size: 1.2rem; margin: 2px 0;">The exchange community created by the PCL homepage author and enthusiasts</p>
+                        <p style="font-size: 1.2rem; margin: 2px 0;">The exchange community created by the PCL homepage
+                            author and enthusiasts</p>
                     </template>
                 </OrgCard>
             </div>
@@ -72,7 +73,8 @@
                 <OrgCard org-name="CIR-OpenSource" display-name="CIR OpenSource"
                          image-url="/images/organizations/CIR-OpenSource.webp">
                     <template #org-description>
-                        <p style="font-size: 1.2rem; margin: 2px 0;">Occasionally open source community of Minecraft CIR Server</p>
+                        <p style="font-size: 1.2rem; margin: 2px 0;">Occasionally open source community of Minecraft CIR
+                            Server</p>
                     </template>
                 </OrgCard>
             </div>
@@ -80,8 +82,10 @@
                 <OrgCard org-name="RIT-OpenSource" display-name="RIT OpenSource"
                          image-url="/images/organizations/RIT-OpenSource.webp">
                     <template #org-description>
-                        <p style="font-size: 1.2rem; margin: 2px 0;">Occasionally open source community of Minecraft CIR Server</p>
-                        <p style="font-size: 1.2rem; margin: 2px 0;">At present, the server has stopped operating, keep it only for memorial</p>
+                        <p style="font-size: 1.2rem; margin: 2px 0;">Occasionally open source community of Minecraft CIR
+                            Server</p>
+                        <p style="font-size: 1.2rem; margin: 2px 0;">At present, the server has stopped operating, keep
+                            it only for memorial</p>
                     </template>
                 </OrgCard>
             </div>
@@ -91,7 +95,7 @@
 
 <style scoped lang="scss">
     main {
-        padding: 64px 48px 48px;
+        padding: 72px 48px 48px;
         min-height: calc(100vh - 128px);
         
         div.container {
